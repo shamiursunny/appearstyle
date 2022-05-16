@@ -2,7 +2,7 @@
 new_page_extension: html
 auto_deploy: false
 admin_path: appearstyle.tk/admin
-webhook_url: 
+webhook_url: appearstyle.tk
 sections: 
 upload_dir: uploads
 public_path: "/uploads"
